@@ -1,0 +1,9 @@
+name: tf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - tensorflow=2.4.1
+  - matplotlib
+  - jupyterlab
+prefix: /home/ovillegas/anaconda3/envs/tf
